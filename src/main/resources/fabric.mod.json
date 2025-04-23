@@ -3,13 +3,13 @@
 	"id": "rune-finder",
 	"version": "${version}",
 	"name": "rune-finder",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A sorting mod",
 	"authors": [
-		"Me!"
+		"Sandstorrm"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/rune-finder",
+		"sources": "https://github.com/Sandstorrm/rune-finder"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/rune-finder/icon.png",
@@ -36,7 +36,7 @@
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.16.13",
+		"fabricloader": ">=0.16.10",
 		"minecraft": "~1.21.1",
 		"java": ">=21",
 		"fabric-api": "*",
