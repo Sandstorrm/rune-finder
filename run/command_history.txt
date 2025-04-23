@@ -1,0 +1,15 @@
+/rf
+/rf chest
+/give @a minecraft:chest 64
+/rf
+/rf chest
+/rf
+/rf chest
+/rf
+/rf chest
+/rf
+/rf chest
+/rf
+/rf chest
+/rf
+/rf chest
