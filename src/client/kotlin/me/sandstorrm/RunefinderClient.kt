@@ -88,9 +88,9 @@ object RunefinderClient : ClientModInitializer {
 						// drop(client, screenHandler, i)
 						initialWait += delayBetweenDrops
 					}
+					previousScreen = currentScreen
 				}
 			}
-			previousScreen = currentScreen
 		}
 	}
 
